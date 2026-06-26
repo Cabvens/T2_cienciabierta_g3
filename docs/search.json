@@ -1,0 +1,104 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Título del trabajo",
+    "section": "",
+    "text": "Palabras clave: Ciencia Social Abierta\n\nAbstract",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reporte abierto</span>"
+    ]
+  },
+  {
+    "objectID": "01-introduccion.html",
+    "href": "01-introduccion.html",
+    "title": "2  Introducción",
+    "section": "",
+    "text": "Motivación, preguntas de investigación, Objetivo general y específicos, contribución esperada, estructura del documento.\nEl suicidio representa uno de los desafios de salud mas criticos y complejos de la actualidad. Caracterizado por su multifactorialidad, es un fenómeno que involucra aspectos biológicos, psicológicos, sociales y culturales. La comprensión de sus causas y la implementación de estrategias efectivas de prevención son esenciales para reducir su incidencia y mitigar sus consecuencias. Sin embargo, a pesar de los esfuerzos realizados en el ámbito de la salud pública, el suicidio sigue siendo un problema persistente y alarmante a nivel global.\nSegún datos proporcionados por la Organizacion Mundial de la Salud. Cada año fallecen 720.000 personas por esta causa. Donde el 73% de los casos se concentran en paises con ingresos bajos y medianos. Por ende, se considera que este fenomeno es un problema causado no solo por factores psicologicos, sino tambien estructurales, caracterizado por vulnerabilidad material, precariedad y condiciones de vida adversas.\nEn este marco, el presente reporte abierto tendrá como objetivo transparentar una investigación hecha por estudiantes de tercer año de sociología provenientes de la Universidad de Chile, para el ramo de estadistica multivariada. El trabajo tiene como propósito investigar el fenómeno de la ideación suicida (entendida como pensamientos acerca de quitarse la vida, que varian en sus niveles de planificacion) en Chile en personas mayores a 30 años, lo que nos parece un tema de gran relevancia, puesto que considera en su modelo variables de caracter tanto estructural como psicologica, a diferencia de otros estudios cuyo énfasis recae en lo psicologico.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "02-antecedentes.html",
+    "href": "02-antecedentes.html",
+    "title": "3  Antecedentes",
+    "section": "",
+    "text": "Respaldo teórico y empírico de la investigación",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Antecedentes</span>"
+    ]
+  },
+  {
+    "objectID": "03-hipotesis.html",
+    "href": "03-hipotesis.html",
+    "title": "4  Hipótesis",
+    "section": "",
+    "text": "Hipótesis de investigación. Deben ser pre-registradas.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Hipótesis</span>"
+    ]
+  },
+  {
+    "objectID": "04-metodos.html",
+    "href": "04-metodos.html",
+    "title": "5  Métodos",
+    "section": "",
+    "text": "Datos y protocolo de investigación\nPara el desarrollo de este estudio se utilizaron los datos del Estudio Longitudinal Social de Chile (ELSOC), una encuesta tipo panel producida por el Centro de Estudios de Conflicto y Cohesión Social (COES). Específicamente, se emplearon los datos transversales correspondientes a la medición levantada en el año 2022 (Ola 6).\nEl diseño muestral original de la encuesta es de carácter probabilístico, estratificado (por tamaño de ciudades), por conglomerados y multietápico. La población de estudio u objetivo de ELSOC comprende a hombres y mujeres, residentes habituales de viviendas particulares ocupadas en zonas urbanas a lo largo del país.\nOriginalmente, el tamaño original de la muestra de la ola utilizada es de 4447 casos. No obstante, la base de datos fue sometida a un proceso de filtrado. Se restringió la base únicamente a personas de 30 años o más. Posteriormente, en la limpieza de los datos, se convirtieron los datos perdidos (-888 y -999) a NA’s en las variables del índice para posteriormente aplicar el método pairwise. Como resultado de este proceso, se obtuvo una muestra analítica final de 2.499 observaciones, sobre la cual se realizaron todos los análisis estadísticos posteriores, tanto descriptivos como bivariados.\nLa seleccion y tratamiento de variables para el estudio se realizó de acuerdo a la utilización de un modelo de regresión lineal múltiple, donde la variable dependiente es la ideacion suicida y las variables independientes son: estado civil, despido del trabajo, insatisfaccion con el ingreso, diagnostico de depresion y sensacion de fracaso.\nPara la variable dependiente, se construyó un índice sumativo cuyo propósito es medir “ideación suicida”. Para ello, se escogieron cuatro variables ordinales de una batería de preguntas del módulo “Salud y bienestar” del cuestionario. La pregunta base es: “¿Cuántas veces durante las últimas dos semanas ha sentido alguna de las siguientes molestias?”. Las afirmaciones específicas de la pregunta guía son las siguientes: “Poco interés o alegría para realizar sus actividades”, posteriormente renombrada como “desinterés”; la segunda: “Decaimiento, pesadez o desesperanza”, renombrada como “decaimiento”; la tercera: “Dificultad para dormirse, dormir toda la noche, o exceso de sueño”, renombrada como “dif_dormir”; la cuarta: “Ha tenido pensamiento de querer estar muerto o de querer hacerse daño o sufrir”, renombrada como “autoflagelo”.\nComo se mencionó, las variables son originalmente ordinales en escala likert con rango de valores de 1 a 5, donde 1 = Nunca, 2 = Algunos días, 3 = Más de la mitad de los días, 4 = Casi todos los días, 5 = Todos los días. Se mantuvo el sentido de la medición, pero se recodificó la escala para que quede de 0 a 4, donde 0 = Nunca y 4 = Todos los días. Dado que el índice está compuesto por cuatro variables con un rango de valores de 0 - 4, sus valores posibles y efectivos van desde el 0 al 16, tratándose de una nueva variable intervalar, por tanto, tratable como cuantitativa. Donde 0 - 4 = Valor bajo; 4 - 8 = Medio; 8 - 12 = Medio-alto; 12 - 16 = Alto.\nPara la construcción del índice sumativo, se empleó la técnica de prorrateo mediante eliminación por pares (pairwise). Esta decisión metodológica permitió calcular el puntaje omitiendo los valores perdidos (NA) individuales de cada ítem, evitando la exclusión del encuestado y maximizando así la retención de la muestra.\nDesde el punto de vista del modelo, se escogieron como variables independientes (predictoras) las siguientes variables: La primera variable está guiada por la pregunta base: “¿Le ha sido diagnosticada alguna de las siguientes enfermedades o condiciones médicas por un doctor? En caso que le haya sido diagnosticada por un doctor, indique el año en que ocurrió”. En este caso, usamos la variable que indica el diagnóstico de “depresión” (se utilizó el nombre original en el software), cuyo nivel de medición es dummy y sus posibles respuestas son “0 = No” o “1 = Si”. Esta fue posteriormente recodificada a factor con el fin de conservar su forma numérica para realizar los cálculos bivariados y posteriormente tener una mayor legibilidad de las categorías y asegurar una mejor interpretación del resultado.\nLa segunda variable que se utilizó fue una variable sociodemográfica, que caracteriza a las personas por su estado civil. Originalmente, la variable estaba compuesta por nueve categorías distintas (nominal), pero se realizó una recodificación para dejar a la variable como dummy, cuyos valores posibles son: “ 0 = Con pareja” y “1 = Sin pareja”. Dado que las primeras tres categorías de la pregunta original aluden a estados civiles con pareja, fueron recodificadas al valor 0; las siguientes cinco categorías aluden a estados sin pareja, por lo que fueron recodificadas a 1; y la restante alude a otros estados civiles distintos a las posibles respuestas originales, por lo que se dejó fuera de la recodificación. Esta variable fue renombrada como “estado_civil”.\nLa tercera variable está guiada por la pregunta: “¿Cuántas veces durante las últimas dos semanas ha sentido alguna de las siguientes molestias?”. El enunciado de la variable indica “mala opinión de sí mismo, tener sensación de ser fracasado o haber defraudado a la familia”, cuyo nombre fue cambiado por “sensacion_fracaso”, para mayor manejabilidad de software; su nivel de medición es ordinal, cuyos valores van desde el 1 = “Nunca” hasta el 5 = “Todos los días”. Sin embargo, fue recodificada para ser variable dummy, cuyos valores posibles son “0 = No” y “1 = Sí”, integrando el 1 (nunca) al valor 0 (no) y los valores 2, 3, 4 y 5 al valor 1 (sí) debido a que percibían malestar, solo variando en su frecuencia. Esto se realizó con el fin de evitar el uso de estadísticos como “Spearman” o forzar la variable a ser tratada como escala.\nLa penúltima variable está guiada por la siguiente instrucción: “Por favor, señale aquellos acontecimientos vitales que le han sucedido en el último año”. En este caso, utilizamos la variable “despido del trabajo”. Su nivel de medición es dicotómica, cuyos valores posibles son “1 = Sí”, “2 = No” y fue renombrada como “despido”. Esta fue posteriormente recodificada a dummy, con valores posibles “0 = no” y “1 = sí”, invirtiendo los valores originales para que la variable posea coherencia lógica y coherencia con el marco teórico. Además, fue recodificada a factor con el fin de conservar su forma numérica para realizar los cálculos bivariados y posteriormente tener una mayor legibilidad de las categorías y asegurar una mejor interpretación del resultado.\nPor último, desde el módulo de caracterización sociodemográfica, se escogió la variable cuyo enunciado indica: “¿Qué tan insatisfecho o satisfecho está usted con su ingreso hoy en día?”. Dicha variable tiene un nivel de medición ordinal donde “1 = Totalmente insatisfecho”, “2 = Insatisfecho”, “3 = Ni satisfecho ni insatisfecho”, “4 = Satisfecho”, “5 = Totalmente satisfecho”. Para mayor manejabilidad y coherencia con las hipótesis teóricas, la variable fue renombrada como “insatis_ingreso” y, posteriormente, fue recodificada como variable dummy, donde las primeras dos categorías (4 y 5) originales se agruparon en “0 = satisfechos” y las últimas 2 categorías (1 y 2) en “1 = Insatisfechos”. La tercera categoría fue descartada, puesto que corresponde a un término medio que, para propósitos analíticos, representa ambigüedad y no es relevante para la investigación.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Métodos</span>"
+    ]
+  },
+  {
+    "objectID": "05-resultados.html",
+    "href": "05-resultados.html",
+    "title": "6  Resultados",
+    "section": "",
+    "text": "Interpreta resultados, limitaciones y aportes.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Resultados</span>"
+    ]
+  },
+  {
+    "objectID": "06-conclusiones.html",
+    "href": "06-conclusiones.html",
+    "title": "7  Conclusiones",
+    "section": "",
+    "text": "Síntesis y proyecciones futuras.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Conclusiones</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Referencias",
+    "section": "",
+    "text": "Bourdieu, P. (2012). La distinción: Criterio y bases sociales del gusto. Taurus.\n\n\nDesmond, M., & Wilmers, N. (2019). The Racialized Geography of Housing. American Journal of Sociology.\n\n\nXie, Y. (2017). bookdown: Authoring Books and Technical Documents with R Markdown. Chapman; Hall/CRC.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Referencias</span>"
+    ]
+  },
+  {
+    "objectID": "apendices/A-encuestas.html",
+    "href": "apendices/A-encuestas.html",
+    "title": "Anexo A - Instrumentos de levantamiento",
+    "section": "",
+    "text": "Incluye cuestionarios, guias de entrevista, etc.",
+    "crumbs": [
+      "Apéndices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Instrumentos de levantamiento</span>"
+    ]
+  },
+  {
+    "objectID": "apendices/B-tablas.html",
+    "href": "apendices/B-tablas.html",
+    "title": "Anexo B - Tablas adicionales",
+    "section": "",
+    "text": "Tablas extendidas, tests de robustez, etc.",
+    "crumbs": [
+      "Apéndices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Tablas adicionales</span>"
+    ]
+  }
+]
