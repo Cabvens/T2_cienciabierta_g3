@@ -4,3 +4,14 @@ numbered: true
 ---
 
 Motivación, preguntas de investigación, Objetivo general y específicos, contribución esperada, estructura del documento.
+
+El suicidio representa uno de los desafios de salud mas criticos y complejos de la actualidad. Caracterizado por su multifactorialidad, es un fenómeno que involucra aspectos biológicos, psicológicos, sociales y culturales. La comprensión de sus causas y la implementación de estrategias efectivas de prevención son esenciales para reducir su incidencia y mitigar sus consecuencias. Sin embargo, a pesar de los esfuerzos realizados en el ámbito de la salud pública, el suicidio sigue siendo un problema persistente y alarmante a nivel global. 
+
+Según datos proporcionados por la Organizacion Mundial de la Salud. Cada año fallecen 720.000 personas por esta causa. Donde el 73% de los casos se concentran en paises con ingresos bajos y medianos. Por ende, se considera que este fenomeno es un problema causado no solo por factores psicologicos, sino tambien estructurales, caracterizado por vulnerabilidad material, precariedad y condiciones de vida adversas. 
+
+En este marco, el presente reporte abierto tendrá como objetivo transparentar una investigación hecha por estudiantes de tercer año de sociología provenientes de la Universidad de Chile, para el ramo de estadistica multivariada. El trabajo tiene como propósito investigar el fenómeno de la ideación suicida (entendida como pensamientos acerca de quitarse la vida, que varian en sus niveles de planificacion) en Chile en personas mayores a 30 años, lo que nos parece un tema de gran relevancia, puesto que considera en su modelo variables de caracter tanto estructural como psicologica, a diferencia de otros estudios cuyo énfasis recae en lo psicologico. 
+
+
+
+
+
