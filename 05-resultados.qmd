@@ -1,7 +1,6 @@
 ﻿---
 title: "Resultados"
 ---
-Interpreta resultados, limitaciones y aportes.
 
 El modelo de regresión completo es estadísticamente significativo (p < .001) y puede explicar alrededor del 28% del fenómeno (R-cuadrado ajustado = .280). El valor del intercepto (1.53) refiere al valor del índice de ideación suicida con todas las variables controladas en valor 0, es decir, el valor del intercepto representa a una persona que está satisfecha con sus ingresos, no fue despedida de su trabajo, no presenta sensación de fracaso, no sufre de depresión y su estado civil en pareja, presenta un puntaje del índice de ideación suicida de 1.53, lo cual, según los criterios establecidos, es un puntaje bajo; esto se puede afirmar con más de un 99.9% de confianza (p < .001). 
 

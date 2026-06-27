@@ -2,9 +2,6 @@
 title: "Métodos"
 ---
 
-Datos y protocolo de investigación
-
-
 Para el desarrollo de este estudio se utilizaron los datos del Estudio Longitudinal Social de Chile (ELSOC), una encuesta tipo panel producida por el Centro de Estudios de Conflicto y Cohesión Social (COES). Específicamente, se emplearon los datos transversales correspondientes a la medición levantada en el año 2022 (Ola 6).
 
 El diseño muestral original de la encuesta es de carácter probabilístico, estratificado (por tamaño de ciudades), por conglomerados y multietápico. La población de estudio u objetivo de ELSOC comprende a hombres y mujeres, residentes habituales de viviendas particulares ocupadas en zonas urbanas a lo largo del país. 
