@@ -110,11 +110,3 @@ datos <- datos %>%
   ) %>%
   select(-starts_with("temp_"))
 
-# Modelo de regresion lineal multiple 
-
-modelo <- lm(indice_ideacion_suicida ~ satis_ingreso + despido + sensacion_fracaso + 
-              depresion + estado_civil, data = datos)
-summary(modelo)
-
-  ## coeficiente estandarizado.
-  summary(lm.beta(modelo))
