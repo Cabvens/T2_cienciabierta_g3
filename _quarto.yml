@@ -8,7 +8,7 @@ project:
     - assets/favicon-2025-20251031.svg  # Asegura que el favicon versionado llegue a docs/
 
 book:
-  title: Reporte abierto 
+  title: El fenómeno de la ideación suicida en Chile
   subtitle: Trabajo final
   output-file: reportes-facso-plantilla
   repo-url: https://github.com/Cabvens/T2_cienciabierta_g3   #URL del repositorio del libro (cambia segun tu repo)
