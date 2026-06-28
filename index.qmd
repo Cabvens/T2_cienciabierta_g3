@@ -24,3 +24,5 @@ div[data-when-format="pdf"] { display: none !important; }
 :::
 
 # Abstract {.unnumbered}
+
+Este trabajo tiene como propósito investigar el cómo inciden factores tanto psicológicos como estructurales en los niveles de ideación suicida. Se espera que los factores estructurales tengan un impacto estadísticamente significativo en dichos niveles.
