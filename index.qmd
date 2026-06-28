@@ -20,9 +20,10 @@ format:
 nav#TOC { display: none !important; }
 div[data-when-format="pdf"] { display: none !important; }
 </style>
-<span class="keywords-line"><strong>Palabras clave:</strong> Salud, Suicidio, causalidad, regresion.</span>
+<span class="keywords-line"><strong>Palabras clave:</strong> Salud, Suicidio, Causalidad, Regresion.</span>
 :::
 
 # Abstract {.unnumbered}
 
-Este trabajo tiene como propósito investigar el cómo inciden factores tanto psicológicos como estructurales en los niveles de ideación suicida. Se espera que los factores estructurales tengan un impacto estadísticamente significativo en dichos niveles.
+Este trabajo tiene como propósito investigar el cómo inciden factores tanto psicológicos como estructurales en los niveles de ideación suicida en personas residentes en Chile, mayores a 30 años de edad. Para ello, se utilizó un modelo de regresión lineal múltiple, el cual permitió identificar los factores que tienen un mayor impacto en la ideación suicida. Los resultados obtenidos muestran que los factores psicologicos tienen un peso significativamente mayor que los factores estructurales. 
+
