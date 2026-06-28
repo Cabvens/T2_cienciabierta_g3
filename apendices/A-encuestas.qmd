@@ -3,6 +3,6 @@ title: "Instrumentos de levantamiento"
 suppress-bibliography: true
 ---
 
-Para Para la recolección de los datos de este estudio, se utilizó el cuestionario 
+Para la recolección de los datos de este estudio, se utilizó el cuestionario 
 oficial diseñado por el Centro de Estudios de Conflicto y Cohesión 
 Social [@ELSOC].
