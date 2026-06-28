@@ -3,4 +3,14 @@ title: "Instrumentos de levantamiento"
 suppress-bibliography: true
 ---
 
-Incluye cuestionarios, guias de entrevista, etc.
+
+@techreport{ELSOC,
+  title = {{Cuestionario\_ELSOC\_2022\_M2}},
+  year = 2022,
+  month = jun,
+  pages = {177},
+  institution = {Centro de estudios y cohesion social},
+  langid = {spanish},
+  file = {C:\Users\casac\Zotero\storage\AVTWVIMI\2022 - Cuestionario_ELSOC_2022_M2.pdf}
+}
+
