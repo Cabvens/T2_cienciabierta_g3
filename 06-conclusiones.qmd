@@ -1,4 +1,10 @@
 ﻿---
 title: "Conclusiones"
 ---
-Síntesis y proyecciones futuras.
+## Síntesis y proyecciones futuras:
+
+
+## Alcances y límites del proyecto abierto:
+En la realización de este proyecto abierto, mediante las informaciones obtenidas a partir de la base de datos del Estudio Longitudinal Social de Chile (ELSOC) utilizado en la investigación sobre el Fenómeno de la ideación suicida en Chile, se identifica la posibilidad de transparencia y reproducibilidad puesto que se tiene un acceso completo a los datos, fuentes y códigos utilizados. No obstante, cabe recalcar que esto ocurre ya que se está utilizando una investigación inédita, realizada grupalmente por estudiantes de Sociología de la Universidad de Chile, dentro de los cuales se encuentra uno de los autores de este trabajo, por lo que se tiene acceso a la información de manera directa. Se destaca esto debido que no siempre se logra un acceso directo y simple a los datos y códigos utilizados en investigaciones, lo que limita justamente la ciencia abierta.  
+
+En sumatoria, se identidica como una limitación al estudio, que aquel no incluye un filtrado por género, lo que limita la generalización de los resultados a diferentes poblaciones. 
