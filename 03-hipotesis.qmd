@@ -2,4 +2,10 @@
 title: "Hipótesis"
 ---
 
-Hipótesis de investigación. Deben ser pre-registradas.
+De acuerdo con el estudio y diseño propuesto por @lewinfenomeno2026, se definen las siguientes hipótesis de investigación, las cuales han sido pre-registradas en la plataforma Open Science Framework (OSF) antes de realizar el análisis principal de los datos. 
+
+**Hipótesis 1 (H1):** Se espera una relación positiva entre el diagnóstico clínico de depresión y el índice de ideación suicida; es decir, la presencia de un trastorno mental depresivo se asocia con un incremento significativo en el puntaje del índice, controlando por las demás variables del modelo. 
+**Hipótesis 2 (H2):** Se espera una relación positiva entre el estado civil y la ideación suicida; específicamente, las personas que no se encuentran en una relación de pareja (solteras, separadas, divorciadas o viudas) presentarán una mayor propensión en el índice en comparación con aquellas que están casadas o conviven en pareja.
+**Hipótesis 3 (H3):** Se espera una relación positiva entre la percepción subjetiva de logro y la variable dependiente; esto es, la experiencia frecuente de experimentar una sensación de fracaso personal se asocia con un aumento drástico en el puntaje de ideación suicida.
+**Hipótesis 4 (H4):** Se espera una relación positiva entre la pérdida del empleo y el riesgo autolítico; postulando que haber experimentado un despido laboral reciente genera un incremento neto sobre los niveles del índice de ideación suicida.
+**Hipótesis 5 (H5):** Se espera una relación positiva entre la insatisfacción financiera y la variable dependiente; de manera que una mayor insatisfacción con los ingresos económicos percibidos actúa como un factor de riesgo que eleva la propensión a la ideación suicida. 
