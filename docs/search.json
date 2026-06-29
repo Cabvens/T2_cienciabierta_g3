@@ -2,11 +2,11 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Reporte abierto",
+    "title": "El fenómeno de la ideación suicida en Chile",
     "section": "",
-    "text": "Palabras clave: Salud, Suicidio, Causalidad, Regresion.\n\nAbstract\nEste trabajo tiene como propósito investigar el cómo inciden factores tanto psicológicos como estructurales en los niveles de ideación suicida en personas residentes en Chile, mayores a 30 años de edad. Para ello, se utilizó un modelo de regresión lineal múltiple, el cual permitió identificar los factores que tienen un mayor impacto en la ideación suicida. Los resultados obtenidos muestran que los factores psicologicos tienen un peso significativamente mayor que los factores estructurales.",
+    "text": "Palabras clave: Salud, Suicidio, Causalidad, Regresion.\n\nAbstract\nEste trabajo tiene como propósito investigar el cómo inciden factores tanto psicológicos como estructurales en los niveles de ideación suicida en personas residentes en Chile, mayores a 30 años de edad. Para ello, se utilizó un modelo de regresión lineal múltiple, el cual permitió identificar los factores que tienen un mayor impacto en la ideación suicida. Los resultados obtenidos muestran que los factores psicólogicos tienen un peso significativamente mayor que los factores estructurales.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reporte abierto</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>El fenómeno de la ideación suicida en Chile</span>"
     ]
   },
   {
@@ -64,7 +64,7 @@
     "href": "06-conclusiones.html",
     "title": "7  Conclusiones",
     "section": "",
-    "text": "Síntesis y proyecciones futuras.",
+    "text": "7.1 Síntesis y proyecciones futuras:",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Conclusiones</span>"
     ]
@@ -93,12 +93,22 @@
   {
     "objectID": "apendices/B-tablas.html",
     "href": "apendices/B-tablas.html",
-    "title": "Anexo B - Tablas adicionales",
+    "title": "Anexo B - Tablas",
     "section": "",
-    "text": "Tablas extendidas, tests de robustez, etc.",
+    "text": "No hay tablas en este apéndice.",
     "crumbs": [
       "Apéndices",
-      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Tablas adicionales</span>"
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Tablas</span>"
+    ]
+  },
+  {
+    "objectID": "06-conclusiones.html#alcances-y-límites-del-proyecto-abierto",
+    "href": "06-conclusiones.html#alcances-y-límites-del-proyecto-abierto",
+    "title": "7  Conclusiones",
+    "section": "7.2 Alcances y límites del proyecto abierto:",
+    "text": "7.2 Alcances y límites del proyecto abierto:\nEn la realización de este proyecto abierto, mediante las informaciones obtenidas a partir de la base de datos del Estudio Longitudinal Social de Chile (ELSOC) utilizado en la investigación sobre el Fenómeno de la ideación suicida en Chile, se identifica la posibilidad de transparencia y reproducibilidad puesto que se tiene un acceso completo a los datos, fuentes y códigos utilizados. No obstante, cabe recalcar que esto ocurre ya que se está utilizando una investigación inédita, realizada grupalmente por estudiantes de Sociología de la Universidad de Chile, dentro de los cuales se encuentra uno de los autores de este trabajo, por lo que se tiene acceso a la información de manera directa. Se destaca esto debido que no siempre se logra un acceso directo y simple a los datos y códigos utilizados en investigaciones, lo que limita justamente la ciencia abierta.\nEn sumatoria, se identidica como una limitación al estudio, que aquel no incluye un filtrado por género, lo que limita la generalización de los resultados a diferentes poblaciones.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Conclusiones</span>"
     ]
   }
 ]
