@@ -3,8 +3,6 @@ title: "Introducción"
 numbered: true
 ---
 
-Motivación, preguntas de investigación, Objetivo general y específicos, contribución esperada, estructura del documento.
-
 El suicidio representa uno de los desafíos de salud mas críticos y complejos de la actualidad. Caracterizado por su multifactorialidad, es un fenómeno que involucra aspectos biológicos, psicológicos, sociales y culturales. La comprensión de sus causas y la implementación de estrategias efectivas de prevención son esenciales para reducir su incidencia y mitigar sus consecuencias. Sin embargo, a pesar de los esfuerzos realizados en el ámbito de la salud pública, el suicidio sigue siendo un problema persistente y alarmante a nivel global. 
 
 En este marco, el presente reporte abierto tendrá como objetivo transparentar una investigación titulada [*El fenómeno de la ideación suicida en Chile*](-@lewinfenomeno2026), llevada a cabo por estudiantes de tercer año de Sociología de la Universidad de Chile. El trabajo tiene como propósito identificar las condiciones sociales que podrían llegar a ser factotres que incidan en la ideación suicida en Chile, considerando una población muestral de personas mayores a 30 años. Por tanto, la pregunta de investigación es: ¿Como afectan las condiciones sociales y psicológicas en los individuos en los niveles de ideación suicida?.   
