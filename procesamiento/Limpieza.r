@@ -11,7 +11,7 @@ pacman::p_load(tidyverse,
                sjmisc,
                sjPlot)
 
-# Creacion de objeto ----
+# Creación de objeto ----
 
 
 datos <- elsoc_wide_2016_2023
